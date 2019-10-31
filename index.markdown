@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Me in front of Monviso Mountain](/assets/background.jpg)
