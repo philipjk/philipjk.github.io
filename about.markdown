@@ -15,7 +15,7 @@ Currently, I am employed by the Scuola Superiore Sant'Anna in Pisa, Italy, steer
 
 Whenever I get the change I hike up some mountains in the Alps or nearby. I watch a lot of YouTube.
 
-![Me in front of Monviso Mountain](assets/mountain.jpg)
+![Me in front of Monviso Mountain](/assets/mountain.jpg)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
