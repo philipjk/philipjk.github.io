@@ -79,7 +79,7 @@ $$
 V_i=
     \begin{cases}
       +1, & \text{if}\ x_i = \sum_{j\neq i} w_{ij} \cdot V_j > 0\\
-      -1, & \text{if}\ x_i = \sum_{j\neq i} w_{ij} \cdot V_j <> 0
+      -1, & \text{if}\ x_i = \sum_{j\neq i} w_{ij} \cdot V_j < 0
     \end{cases}
 $$
 By using the weight matrix defined above we have, similarly:
