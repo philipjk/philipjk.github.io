@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Just keeping this one as a reference
+*welcome-to-jekyll.markdown
