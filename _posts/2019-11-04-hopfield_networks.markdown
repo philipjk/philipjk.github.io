@@ -86,8 +86,8 @@ By using the weight matrix defined above we have, similarly:
 $$
 V_i=
     \begin{cases}
-      +1, & \text{if}\ x_i = W[i,:] \cdot V_j > 0\\
-      -1, & \text{if}\ x_i = W[i,:] \cdot V_j < 0
+      +1, & \text{if}\ x_i = W[i,:] \cdot V > 0\\
+      -1, & \text{if}\ x_i = W[i,:] \cdot V < 0
     \end{cases}
 $$
 Now we can get an intuition of how Hopfield Networks actually work.
