@@ -6,7 +6,7 @@ categories: neural networks
 ---
 
 To my surprise, there has been a recent interest in my Hopfield Networks wrap-up
-[page](_posts/2020-08-28-hopfield_networks_update.markdown).
+[page]({% post_url 2019-11-04-hopfield_networks %}).
 
 For the record, it is also available on [Medium](https://towardsdatascience.com/hopfield-networks-are-useless-heres-why-you-should-learn-them-f0930ebeadcd),
 where a [fellow reader](https://medium.com/@dinu.marius.constantin) pointed me
