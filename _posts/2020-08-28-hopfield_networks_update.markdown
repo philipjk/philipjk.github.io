@@ -14,7 +14,7 @@ to [this article](https://arxiv.org/abs/2008.02217),
 titled "Hopfield Networks is all you need". As he jokingly noticed, it turns out
 that Hopfield Networks are not that useless after all, but it still makes for a
 catchy title. And speaking of titles, let's be pedantic and notice how it should
-have been "Hopfield Network *are* all you need". Naturally, it is a reference to
+have been "Hopfield Networks *are* all you need". Naturally, it is a reference to
 the ["Attention is all you need"](https://arxiv.org/abs/1706.03762) paper on Transformer
 architectures, so I guess we are both guilty of sacrificing clarity on the altar of
 clickbaiting.
