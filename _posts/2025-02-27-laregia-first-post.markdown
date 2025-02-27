@@ -29,7 +29,7 @@ an alternative channel, that of the inner joke. From a user's perspective,
 GIFs are easy: the sender thinks of a pop culture reference, opens basically any
 social media app search box and looks for it. The sender decides which one to 
 share with a glance. The receiver does not even need to read a text, and a quick
-look is enough. The speed of communication depends on the medium (image or text)
+look is enough. The speed of communication depends on the medium (image vs text)
 only to a certain degree, and I believe the time saved comes from information 
 compression. This compression in turns comes from the pop culture 
 reference expressing a whole set of ideas and sentiments that would take a lot 
@@ -115,19 +115,20 @@ aftet the show is published to do a couple things:
 had hoped not to encounter again after converting to Pytorch)
 - sort of _shazam_ the audio segment to find title and artist
 
-The front-end just just needs to put everything together and find the 
+The front-end just needs to put everything together and find the 
 right album art and provide a short preview of the song (beside saving favorites 
-and all of that). Since it was basically a no-brainer, it also let's you play 
+and all of that). Since it was basically a no-brainer, it also lets you play 
 the full episode directly fom the app!
 
 ## Now?
 
-I'm still in the closed testing phase of the add development cycle. Unfortunately,
+I'm still in the closed testing phase of the app development cycle. Unfortunately,
 just a few months before starting my development account on the Play Store, they
 introduced much stricter rules and requirements to go for open testing and
 giving production access.
 
-On the plus side, it is an interesting chance to build a small community of avid
+On the plus side, directly interacting with the testers at this stage
+is an interesting chance to build a small community of avid
 users who feel involved in the development phase, and rightfully so.
 
 If you wish to be included as a tester, send me an email at `watersheepapps@gmail.com`.
