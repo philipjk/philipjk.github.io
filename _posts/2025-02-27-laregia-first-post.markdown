@@ -23,6 +23,7 @@ the choice of what to work on is purely based on the result (and to some degree 
 development) being a lot of fun. That is at least for the niche I am targeting. 
 
 ## Why?
+
 I reply to a lot of texts with GIFs, which makes communication possible on
 an alternative channel, that of the inner joke. From a user's perspective,
 GIFs are easy: the sender thinks of a pop culture reference, opens basically any
@@ -33,8 +34,9 @@ only to a certain degree, and I believe the time saved comes from information
 compression. This compression in turns comes from the pop culture 
 reference expressing a whole set of ideas and sentiments that would take a lot 
 of words to express otherwise.
-
-![no-god-no](/assets/images/posts/no-god-no-god-please-no.gif)
+<div style="text-align: center">
+    <img src="/assets/images/posts/no-god-no-god-please-no.gif" alt="no-god-no">
+</div>
 
 Audio messages are basically the opposite. The receiver
 can't just glance at their phone and see what's going on, they need to listen to
@@ -54,6 +56,9 @@ meaning:
 
 
 ## What?
+
+### Audio-meme sharing
+
 La Zanzara is the most listened-to podcast in Italy, without even being a podcast
 first. It is broadcast every weekday on the radio, and episodes are then uploaded
 to all audio streaming platforms. Recently, it was recognized as the first 
@@ -85,3 +90,31 @@ all messaging apps.
     <img src="/assets/images/posts/zanza-2.jpg" alt="Image 2" style="width: 49%;">
 </div>
 
+### Everything else
+
+As I was in the development stage of the app, and I wanted to gather some feedback,
+I noticed how the internal/alpha testers and in general the fans of the show were
+all very interested in the songs the show directors would play as background music,
+or to introduce a new character. That is something I was also looking for myself,
+and fan-made playlists on Spotify would only go so far, especially in terms of almost
+never being up to date.
+
+So I decided that would make for an intresting addition, and I am actually 
+considering making it the main feature and page of the app.
+
+<div style="text-align: center">
+    <img src="/assets/images/posts/zanza-3.jpg" alt="Image 3" style="width: 50%;">
+</div>
+
+That was pretty cool to develop, and I'm quite happy with the result so far.
+Right now, beside the front-end (which does need some improvement), the interesting
+part works under the hood, where a Google Cloud Run Job instance is launched daily
+aftet the show is published to do a couple things:
+- fetch the latest episode
+- process it to find audio segments (a painful throwback to Tensorflow, which I 
+had hoped not to encounter again after converting to Pytorch)
+- sort of _shazam_ the audio segment to find title and artist
+
+The front-end just just needs to put everything together and find the 
+right album art and provide a short preview of the song (beside saving favorites 
+and all of that).
