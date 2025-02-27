@@ -99,7 +99,7 @@ or to introduce a new character. That is something I was also looking for myself
 and fan-made playlists on Spotify would only go so far, especially in terms of almost
 never being up to date.
 
-So I decided that would make for an intresting addition, and I am actually 
+So I decided that would make for an interesting addition, and I am actually 
 considering making it the main feature and page of the app.
 
 <div style="text-align: center">
@@ -117,4 +117,17 @@ had hoped not to encounter again after converting to Pytorch)
 
 The front-end just just needs to put everything together and find the 
 right album art and provide a short preview of the song (beside saving favorites 
-and all of that).
+and all of that). Since it was basically a no-brainer, it also let's you play 
+the full episode directly fom the app!
+
+## Now?
+
+I'm still in the closed testing phase of the add development cycle. Unfortunately,
+just a few months before starting my development account on the Play Store, they
+introduced much stricter rules and requirements to go for open testing and
+giving production access.
+
+On the plus side, it is an interesting chance to build a small community of avid
+users who feel involved in the development phase, and rightfully so.
+
+If you wish to be included as a tester, send me an email at `watersheepapps@gmail.com`.

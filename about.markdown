@@ -5,11 +5,13 @@ permalink: /about/
 ---
 <div style="text-align: justify">
 </div>
-My name is Filippo Galli, this is my personal website. I was born in the early 90's in Italy, just next to the city of Milan.
-I studied engineering in Torino, Italy.
-I used to play drums for some years, and cello before that.
-You can listen to the music me and my band used to play on
-[Spotify](https://open.spotify.com/artist/7x9tnv10Fj2tuNcPPnUq1J?si=h2t2oRjkTUira86DAkHUpA).
+I'm Filippo Galli, a researcher in data science with a PhD from Scuola Normale 
+Superiore, where I focused on privacy-preserving machine learning. I've worked 
+at Meta, CERN, and NASA, contributing to AI, robotics, and statistical privacy. 
+I studied engineering in Torino, specializing in mechatronics and electrical 
+systems. Outside of research, I played the cello and later drums in a band—our 
+music is still on [Spotify](https://open.spotify.com/artist/7x9tnv10Fj2tuNcPPnUq1J?si=h2t2oRjkTUira86DAkHUpA).
+Whenever I can, I hike or ski in the Alps, and go to stand up comedy shows.
 
 
 
