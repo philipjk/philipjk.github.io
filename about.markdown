@@ -14,13 +14,6 @@ music is still on [Spotify](https://open.spotify.com/artist/7x9tnv10Fj2tuNcPPnUq
 Whenever I can, I hike or ski in the Alps, and go to stand up comedy shows.
 
 
-
-<div style="text-align: justify">
-Currently, I am employed by the Scuola Superiore Sant'Anna in Pisa, Italy, steering my career from robotics to artificial intelligence.
-
-Whenever I get the change I hike up some mountains in the Alps or nearby. I watch a lot of YouTube.
-</div>
-
 <p></p>
 
 ![Me in front of Monviso Mountain](/assets/mountain.jpg)
