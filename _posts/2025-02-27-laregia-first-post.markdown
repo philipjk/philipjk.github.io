@@ -34,7 +34,7 @@ compression. This compression in turns comes from the pop culture
 reference expressing a whole set of ideas and sentiments that would take a lot 
 of words to express otherwise.
 
-![no-god-no](assets/no-god-no-god-please-no.gif)
+![no-god-no](/assets/images/posts/no-god-no-god-please-no.gif)
 
 Audio messages are basically the opposite. The receiver
 can't just glance at their phone and see what's going on, they need to listen to
@@ -80,11 +80,7 @@ political figures, sounds and noises that almost by definition are audio-memes.
 The MVP of LaRegia (i.e. The Show Director) let's you share these audio-memes on
 all messaging apps.
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="assets/zanza-1.png" alt="Image 1" style="width: 100%;">
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="assets/zanza-2.png" alt="Image 2" style="width: 100%;">
-    </div>
+<div style="display: flex; justify-content: space-between; max-width: 100%;">
+    <img src="/assets/images/posts/zanza-1.jpg" alt="Image 1" style="width: 49%;">
+    <img src="/assets/images/posts/zanza-2.jpg" alt="Image 2" style="width: 49%;">
 </div>
