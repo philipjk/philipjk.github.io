@@ -2,7 +2,7 @@
 layout: post
 title: "LaRegia - an app for all things LaZanzara"
 subtitle:  "Approaching Android development in 2025 with a meme app?"
-date:   2025-02-27 10:18:14 +0100
+date:   2025-02-20 10:18:14 +0100
 categories: app development
 ---
 
