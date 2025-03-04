@@ -229,7 +229,7 @@ where:
 
 ## The result
 
-In this [Gihub repo](https://github.com/philipjk/draft_assistant) you can find
+In this [Github repo](https://github.com/philipjk/draft_assistant) you can find
 the "front-end" of the assistant, a python-based terminal script to suggest 
 the best cards in a Premier Draft game of MTG on Arena. So far, only _MTG: Foundations_
 is supported, but expanding to other card sets if just a matter of productionizing
