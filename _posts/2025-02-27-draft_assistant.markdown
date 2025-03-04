@@ -12,7 +12,7 @@ in terms of size and entity of the tasks.
 
 For some time I thought the sole advantage of the transformer architecture
 and the attention mechanism was that, compared to the old recurrent networks (RNNs),
-was in fact, not recurrent. Or better, considering that the attention mechanism 
+it was in fact, not recurrent. Or better, considering that the attention mechanism 
 could process the whole input/output sequence in one shot, the advatage lied
 in the large scale parallelization compared to RNNs, which instead required
 processing sequentially over the time dimension of the input/output sequence.
@@ -125,7 +125,7 @@ from 17lands. At inference time, we
 condition the model on an optimal scenario by setting $w = 7$ and $k =$ _Mythic 
 rank_, ensuring it recommends the best choices for winning a draft.
 
-## The model
+## The model - if you're _really_ interested
 
 In a Magic: The Gathering draft, a player selects cards from a pack to build
 their pool. The key challenge is evaluating each card in the pack based on its 
